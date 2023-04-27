@@ -5,8 +5,8 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "KYCAgeCredential": {
-          "@id": "https://polygon-id-game-score-as-credential.vercel.app/game-ld-context.json#KYCAgeCredential",
+        "ScoreCredential": {
+          "@id": "https://polygon-id-game-score-as-credential.vercel.app/game-ld-context.json#ScoreCredential",
           "@context": {
             "@version": 1.1,
             "@protected": true,
